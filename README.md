@@ -1,4 +1,4 @@
 # hello-world
-Test
-I love sleep
-be careful
+Test.
+I love sleep.
+be careful.
